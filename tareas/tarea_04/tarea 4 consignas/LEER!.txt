@@ -1,0 +1,49 @@
+Tarea 4:
+_Van a tener como desafio grupal copiar lo mejor posible la web que tienen en la imagen.
+_Van aplicar lo aprendio hasta ahora:
+
+HTML:
+	Etiquetas
+	Etiquetas semanticas
+	Elementos de bloque
+	Elementos de linea
+	Multimedia (Audio, imagen, video)
+	Listas
+	Enlaces (Relativos, absolutos)
+	Etc...
+	TODO EL PDF DE LA CLASE 2 :D
+CSS:
+	Clases
+	ID
+	Herencia, cascada
+	Especifidad
+	Background
+	Box model (Margenes, border, relleno, menu)
+	camelCase
+	Reseteo
+	Etc...
+	TODO EL PDF de la clase 3 :D
+
+FLEXBOX:
+	Display
+	Flex-direction
+	Justify..
+	Align...
+
+	
+Consigna:	 Lo van hacer en grupo, ustedes eligen si meet, zoom, discord pero lo HACEN EN GRUPO! Todos aprenden de todos. Hasta el que mas sabe aprende del que menos
+		sabe. Es obligatorio hacerlo en grupos. 
+		Les pase el listado por Whatapp en donde van a ver quienes son sus compañeros de equipo. Armen un Whatapp interno para ustedes y coordinen alli como haran.
+		
+		NO SE PUEDE USAR BOOTSTRAP
+		NO SE PUEDE USAR BOOTSTRAP
+		NO SE PUEDE USAR BOOTSTRAP
+	
+		No pueden consultar a otros compañeros fuera de su grupo! (Claramente yo no puedo seguirlos uno por uno para que no lo hagan, queda a consiencia de cada uno,
+		ya somos adultos)
+
+		Que comience el juego :D
+
+
+
+

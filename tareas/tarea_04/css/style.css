@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* General */
+
+body {
+    background-image: url(../assets/img/fondos/texturebg-1.png);
+}
+
+/* header */
+
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+    height: 135px;
+    background-image: url(../assets/img/fondos/texturebg-2.png);
+    /* opacity: 0.85; */
+}
+
+header img {
+    height: 125px;
+    margin: 0 10px;
+}
+
+header ul {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+
+    list-style-type: none;
+
+}
+
+header ul li {
+    margin: 0 15px;
+    font-family: 'Archivo Black';
+    font-size: 1.4em;
+}
+
+/* main */
+
+main {
+    background-image: url(../assets/img/fondos/texturebg-1.png);
+}
+
+main h1 {
+    font-family: 'Archivo Black';
+    font-size: 6em;
+
+    text-shadow: 5px 10px 10px #AAA;
+}
+
+/* footer */
+
+footer {
+    background-image: url(../assets/img/wfooter.svg);
+    background-size: cover;
+}
+
+footer img {
+    height: 140px;
+}
