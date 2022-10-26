@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    margin: 5px;
+    border-bottom: 2px solid #00f;
+}
+
+h2 {
+    margin: 15px 5px;
+    border: 2px solid #AAA;
+}
+
+h2~ul {
+    border-top: 4px dotted #F00;
+    border-bottom: 4px dotted #F00;
+}
+
+p~ul {
+    border: 2px dashed #0F0;
+}
+
+li {
+    margin-left: 40px;
+}
